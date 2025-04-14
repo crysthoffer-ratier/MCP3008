@@ -1,0 +1,18 @@
+DEBUG:__main__:Reading: 0
+DEBUG:__main__:Voltage: 0.0
+DEBUG:__main__:Reading: 0
+DEBUG:__main__:Voltage: 0.0
+DEBUG:__main__:Reading: 0
+DEBUG:__main__:Voltage: 0.0
+DEBUG:__main__:Reading: 0
+DEBUG:__main__:Voltage: 0.0
+DEBUG:__main__:Reading: 0
+DEBUG:__main__:Voltage: 0.0
+2025-04-14 00:52:21,409 - DEBUG - Reading: 0
+2025-04-14 00:52:21,409 - DEBUG - Voltage: 0.00 V
+2025-04-14 00:52:22,410 - DEBUG - Reading: 0
+2025-04-14 00:52:22,410 - DEBUG - Voltage: 0.00 V
+2025-04-14 00:52:23,410 - DEBUG - Reading: 0
+2025-04-14 00:52:23,410 - DEBUG - Voltage: 0.00 V
+2025-04-14 00:52:24,411 - DEBUG - Reading: 0
+2025-04-14 00:52:24,411 - DEBUG - Voltage: 0.00 V
